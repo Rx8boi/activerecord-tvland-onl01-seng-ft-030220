@@ -9,4 +9,3 @@ class Show < ActiveRecord::Base
     actors << actor
   end
 end
-

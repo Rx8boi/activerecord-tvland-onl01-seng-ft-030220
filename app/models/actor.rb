@@ -6,4 +6,5 @@ class Actor < ActiveRecord::Base
     self.first_name = a
     self.last_name = b
     ab
+  end
 end
